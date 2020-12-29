@@ -1,0 +1,11 @@
+# Modules directory
+node_modules
+
+# Session file
+*.data.json
+
+# Debug file
+debug.log
+
+# Local folder
+.node-persist
